@@ -1,2 +1,2 @@
-var con='马江玲';
+var con='朴灿烈，吴世勋';
 console.log(con);
